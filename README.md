@@ -37,7 +37,7 @@ Forum discussion: https://forum.unity.com/threads/physics-in-pure-ecs.531716/
 
 ### Long-term
 - Support multiple contact points per manifold
-- rigidbody sleep mecanism
+- rigidbody sleep mechanism
 - Capsule colliders
 - GJK and EPA for mesh colliders
 - Physics queries (raycasts, overlaps, etc...)
